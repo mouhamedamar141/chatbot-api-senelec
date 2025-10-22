@@ -189,9 +189,9 @@ Voici les modèles les plus performants pour un chatbot en production avec répo
              -d '{"query": "Comment lire mon compteur électrique  ?", "chat_history": []}'
         ```
 
-## Fichier d'évaluation (jeu de Q/A tests)
+### Fichier d'évaluation (jeu de Q/A tests)
 
-Un fichier `SENELEC_FAQ_Abonnement.pdf` est fourni, contenant un ensemble de questions et de réponses attendues pour tester la performance du chatbot.
+#### Un fichier `SENELEC_FAQ_Abonnement.pdf` est fourni, contenant un ensemble de questions et de réponses attendues pour tester la performance du chatbot.
 ---
 
 **Auteur:** Mouhamed Amar
