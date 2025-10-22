@@ -61,12 +61,14 @@ chatbot-api/
 2.  **Créer un environnement virtuel et activer:**
 
    **Linux/Mac:**
+   
     ```bash
     python -m venv venv
     source venv/bin/activate
     ```
 
     **Windows:**
+    
     ```bash
     python -m venv venv
     venv\Scripts\activate
