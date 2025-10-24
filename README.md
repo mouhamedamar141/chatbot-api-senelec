@@ -93,7 +93,7 @@ chatbot-api/
 
     Vous pouvez configurer le modèle utilisé dans `app/utils/config.py` via la variable d'environnement `OLLAMA_MODEL`.
 
-## Modèles Ollama Recommandés pour RAG
+## Modèles Ollama Recommandés 
 
 Voici les modèles les plus performants pour un chatbot en production avec réponses rapides (< 3 secondes) :
 
