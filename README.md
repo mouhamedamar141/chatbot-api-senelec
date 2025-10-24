@@ -54,7 +54,7 @@ chatbot-api/
 1.  **Cloner le dépôt (ou dézipper le projet):**
 
     ```bash
-    git clone <URL_DU_DEPOT>
+    git clone https://github.com/mouhamedamar141/chatbot-api-senelec
     cd chatbot-api
     ```
 
