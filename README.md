@@ -131,7 +131,7 @@ Voici les modèles les plus performants pour un chatbot en production avec répo
 
     *   **SQLite:** La base de données SQLite sera créée automatiquement dans le dossier racine du projet.
 
-    Vous pouvez choisir entre Qdrant et LanceDB en définissant la variable d'environnement `VECTOR_DB_TYPE` à `qdrant` ou `lancedb` (par défaut `qdrant`).
+    Vous pouvez choisir entre Qdrant et LanceDB en définissant la variable d'environnement `VECTOR_DB_TYPE` à `qdrant` ou `lancedb` (par défaut `lancedb`).
 
 ## Utilisation
 
